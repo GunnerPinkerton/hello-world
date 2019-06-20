@@ -3,5 +3,66 @@ My first repository!
 
 This is my first time using GitHub! I'm excited to learn!
 
-I sometimes feel overwhelmed by all the knowledge at my fingertips, but I know that comes with time.
-I need to meal prep my food for the week so I stop spending so much money.
+July 20th, 2019
+-
+   Last night I got through about 30 minutes of week 1 of CS50. Previously I have watched and completed the project for week 0. My Scratch project is a simple 3 choice fantasy game where an elf chooses one of three magical items, accompanied by a wizard in a dark forest. 
+   
+   The most challenging portion of the project was coordinating the multiple scripts for each sprite to synchronize when events happened. That was also the most rewarding aspect, having the "ah-ha" moments of getting the scripts to run properly. I did have to temper my expectation for the project. I wanted to have the other relics dismissed after a brief dialogue and then have the relic react to the elf based upon a unique property for each. With time and experience, I will go back and update the project to achieve that vision. But at this point, I need to focus on getting through the rest of the material.
+   
+   The portion of the lecture I viewed last night emphasized logical thinking and removing assumption and abstraction. I'm looking forward to learning more about the C language and toying around with it in the CS50 Sandbox. I think a good exercise for practicing logical thinking and removing abstraction would be creating a pseudo-code for the avocado toast I made this morning.
+
+    0 Go to Pantry
+    1 Turn knob 90 degrees clockwise
+    2 Pull pantry door
+    3 Release knob
+    4 Locate bread
+    5 Locate avocado
+    6 Take bread
+    7 Take avocado
+    8 Place both on counter
+    9 Locate toaster
+    10 Plug toaster cord into wall socket
+    11 Set power knob to 3
+    12 Untie bread bag
+    13 Open bread bag
+    14 Grab two slices of bread
+    15 If the heel was grabbed, then return it to the loaf and grab a slice that isn't the heel
+    16 Place two slices of bread vertically in the toaster parallel to the slots in the top of the toaster
+    17 Push down on the front button to begin toasting
+    18 Pull utensil drawer open
+    19 Locate steak knives
+    20 Take 1 steak knife
+    21 Push utensil drawer closed
+    22 Grab knife by handle
+    23 Grab avocado
+    24 Cut avocado in half using knife with the sharp edge facing toward avocado
+    25 When the knife reaches the pit of the avocado, rotate the avocado around the knife in a striaght line to cut in half
+    26 Place both halves of the avocado and the knife on the counter
+    27 Pick up the half with the pit
+    28 Remove the avocado pit and place the avocado half back on the counter
+    29 Throw away the pit
+    30 Place the knife in the sink
+    31 Take bread
+    32 Tie bread bag closed
+    33 Place bread in pantry
+    34 Close pantry door
+    35 Open dishes cabinet
+    36 Take one plate
+    37 Place plate on counter
+    38 Close dishes cabinet
+    39 Pull open the utensil drawer
+    40 Take spoon
+    41 Push closed the utensil drawer
+    42 Place spoon on counter
+    43 Take toasted bread from toaster
+    44 Place slices of toast side by side on plate
+    45 Scoop avocado flesh from one avocado half
+    46 Spread face up on one slice of toast
+    47 Scoop avocado flesh from the remaining avocado half
+    48 Spread face up on the other slice of toast
+    49 Place the spoon in the sink
+    50 Throw away the avocado shells
+    51 Eat the avocado toast
+    52 Place the plate in the sink
+    
+ 52 steps later, I have made, eaten, and put away two slices of avocado toast. i didn't get to season them, but sometimes breakfast has to be made quick. Even having gone through this process and making myself remove abstraction and assumptions, I'm positive there are still some oversights, such as placing items on the counter as opposed to specific and non-overlapping positions. 
